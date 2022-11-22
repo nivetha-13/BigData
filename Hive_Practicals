@@ -1,9 +1,0 @@
-hive --> to enter into hive
-ctrl+L --> to clear the screen
-exit; --> to come out of hive
-
-
-show tables; --> to list tables
-describe customers; --> Displays schema(what are the columns & which data types) of a hive table. It will give the normal/basic details.
-describe formatted customers; --> it will give more details about the table.
-
